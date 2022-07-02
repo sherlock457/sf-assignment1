@@ -120,6 +120,10 @@ form input:valid{
     display: flex;
     justify-content: center;
 }
+.flexbox-container2{
+    display: flex;
+    justify-content: center;
+}
 .flexbox-item{
     width: 200px;
     margin: 10px;
